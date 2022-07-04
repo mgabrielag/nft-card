@@ -13,7 +13,7 @@ Os usuários devem ser capazes de:
 
 Esse é o meu resultado final da solução do desafio :)
 
-![](./images/screenshot_projeto-final.PNG)
+![](./images/screenshot_projeto_final.PNG)
 
 
 ### :small_blue_diamond: Links
