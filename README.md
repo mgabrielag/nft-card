@@ -40,17 +40,13 @@ Esse é o meu resultado final da solução do desafio :)
 
 ### :white_check_mark: O que eu aprendi
 
-Nesse projeto coloquei em prática o fluxo de trabalho mobile-first e o modelo de nomeação de classes BEM.
+Nesse projeto o meu maior desafio foi codar o overlay de imagens, testei de diversas formas até chegar no resultado final. O lado bom disso é que aprendi mais sobre a propriedade position do CSS! 
 
-Além disso, a estruturação dos arquivos CSS por seções da página.
-
-Para posicionar os elementos utilizei o Flexbox.
+Além disso, fixei melhor a forma de projetar sites responsivos com as queries.
 
 ### :rocket: Desenvolvimento contínuo
 
 Nos próximos projetos gostaria de praticar o posicionamento com CSS Grid, fixando melhor seus conceitos, assim como fiz com Flexbox.
-
-Reconheço que preciso expandir meu conhecimento sobre dimensionamento dos elementos. Para isso, vou estudar mais sobre as unidades de medida absolutas e relativas e colocar em prática nos próximos projetos.
 
 ## :girl: Autor
 
