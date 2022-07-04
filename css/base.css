@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+:root {
+    --cor-texto: hsl(215, 51%, 70%);
+    --cor-nft: hsl(178, 100%, 50%);
+
+    --cor-bg: hsl(217, 54%, 11%);
+    --cor-cartao: hsl(216, 50%, 16%);
+    --cor-linha: hsl(215, 32%, 27%);
+    --branco: hsl(0, 0%, 100%);
+
+    --fonte: 'Outfit', sans-serif;
+}
+
+body {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+
+    width: 100vw;
+    height: 100vh;
+
+    background: var(--cor-bg);
+    color: var(--cor-texto);
+    font-family: var(--fonte);
+    font-weight: 300;
+}
+
+a {
+    color: var(--branco);
+    text-decoration: none;
+}
+
+.cartao {
+    width: 75%;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background: var(--cor-cartao);
+    box-shadow: 10px 10px 100px rgba(4, 2, 21, 0.529);
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+hr {
+    background-color: var(--cor-linha);
+    border: none;
+
+    height: 1px;
+}
+
+@media screen and (min-width: 425px) {
+    .cartao {
+        width: 52%;
+    }
+}
+
+
+@media screen and (min-width: 768px) {
+    .cartao {
+        width: 29%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .cartao {
+        width: 16%;
+    }
+}
+
+

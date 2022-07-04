@@ -1,0 +1,36 @@
+.cartao__banner {
+    width: 100%;
+
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    overflow: hidden;
+    position: relative;
+}
+
+.fundo-banner {
+    width: 100%;
+    display: block;
+}
+
+.cartao__overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: hsla(178, 100%, 50%,0.4);
+    display: none;
+}
+
+.overlay-banner {
+    position: absolute;
+    width: 50px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.cartao__banner:hover .cartao__overlay {
+    display: block;
+    cursor: pointer;
+}
