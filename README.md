@@ -18,8 +18,8 @@ Esse é o meu resultado final da solução do desafio :)
 
 ### :small_blue_diamond: Links
 
-- URL da solução: [repositório da solução no Github](https://github.com/mgabrielag/columns-cards)
-- URL do site ao vivo: [Clique aqui para ver o projeto hospedado.](https://columns-cards.vercel.app/)
+- URL da solução: [repositório da solução no Github](https://github.com/mgabrielag/nft-card)
+- URL do site ao vivo: [Clique aqui para ver o projeto hospedado.](https://nft-card-six-sigma.vercel.app/)
 
 ## :flags: Meu processo
 
